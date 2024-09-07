@@ -1,6 +1,6 @@
 # CloudChat  
 
-[简体中文](README_ZH.md)
+[简体中文](README_ZH.md)  
 A open-source text messaging application. (*^▽^*)   
 
 ## Build  

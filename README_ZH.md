@@ -1,6 +1,6 @@
 # CloudChat  
 
-[English](README.md)
+[English](README.md)  
 一个开源的纯文本聊天室实现. (*^▽^*)   
 
 ## 构建  
