@@ -1,5 +1,5 @@
-bin_PROGRAMS = server
-server_SOURCES = server.c
-server_CFLAGS = $(CFLAGS)
-server_LDADD = $(LIBS)
+bin_PROGRAMS = cloudchat-server
+cloudchat_server_SOURCES = server.c
+cloudchat_server_CFLAGS = $(CFLAGS)
+cloudchat_server_LDADD = $(LIBS)
 

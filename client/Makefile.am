@@ -1,5 +1,5 @@
-bin_PROGRAMS = client
-client_SOURCES = client.c
-client_CFLAGS = $(CFLAGS)
-client_LDADD = $(LIBS)
+bin_PROGRAMS = cloudchat-client
+cloudchat_client_SOURCES = client.c
+cloudchat_client_CFLAGS = $(CFLAGS)
+cloudchat_client_LDADD = $(LIBS)
 
