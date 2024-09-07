@@ -1,3 +1,17 @@
-# CloudChat
+# CloudChat  
 
-A open-source text messaging application.
+A open-source text messaging application.  
+
+## Build  
+
+### Server  
+You need a Linux environment with gcc and make.  
+```Bash
+./configure --enable-server && cd client && make && sudo make install
+```
+
+### Client
+You need a Linux environment with gcc and make.  
+```Bash
+./configure --enable-client && cd client && make && sudo make install
+```
